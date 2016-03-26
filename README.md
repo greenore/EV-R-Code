@@ -1,2 +1,6 @@
-# cs171-project
-CS 171: Final Group Project
+# CS 171: Final Group Project
+
+## Project Proposal
+The U.S. emits more greenhouse gas emissions per capita than any other nation. Approximately 33% of the CO2 emission of the United States come from the transportation system. Moreover, a big part of the US growth in CO2 emissions since 1990 comes from the increase in CO2 emission out of transportation. Yet, in the last couple of years a new type of car has started to appear on US roads that is being hailed as the solution to the above problem, the electric car.
+
+In our project we are going to have a closer look at this solution, i.e., the current state of the electric car in the US. That means showing what types of electric cars exist (price, range: web scrapping and official automaker statistics) and giving an overview of some environmental data (US gov. statistics). From there we are going to show the number of electric vehicles registered per state (U.S. vehicle registration statistics). Another important metric is the perception/reception of the electric car (complaints statistic: web API from the NHTSA) and the number of recalls (recalls statistic: web API from the NHTSA). Last but not least some usability statics, i.e., the location of service and charging stations in the US (web scrapping of automakers websites).
