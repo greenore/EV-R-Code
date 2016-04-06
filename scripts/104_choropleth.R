@@ -16,5 +16,5 @@ i3 <- ichoropleth(percentage ~ abbreviation, data = df.map, ncuts = 5,
                                        '</strong><br>' + data.percentage+' %'+
                                        '</div>';}!#"))
 i3$show("iframesrc", cdn = TRUE)                                       
-i3
+i3$save("html/choropleth.html", cdn = TRUE)
 
