@@ -1,53 +1,53 @@
-State;Plug-in_Electric_Light_Vehicle_Registrations;Population_Estimates;Plug-in Electric_Vehicle_Light _Registrations_per_Thousand_People;;
-Alabama; 773 ; 4'849'377 ;0.16;;
-Alaska; 155 ; 736'732 ;0.21;;
-Arizona; 4'361 ; 6'731'484 ;0.65;;
-Arkansas; 374 ; 2'966'369 ;0.13;;
-California; 126'283 ; 38'802'500 ;3.25;;
-Colorado; 4'001 ; 5'355'866 ;0.75;;
-Connecticut; 2'476 ; 3'596'677 ;0.69;;
-Delaware; 383 ; 935'614 ;0.41;;
-District of Columbia; 493 ; 658'893 ;0.75;;
-Florida; 10'383 ; 19'893'297 ;0.52;;
-Georgia; 15'551 ; 10'097'343 ;1.54;;
-Hawaii; 3'050 ; 1'419'561 ;2.15;;
-Idaho; 409 ; 1'634'464 ;0.25;;
-Illinois; 6'694 ; 12'880'580 ;0.52;;
-Indiana; 1'697 ; 6'596'855 ;0.26;;
-Iowa; 928 ; 3'107'126 ;0.30;;
-Kansas; 750 ; 2'904'021 ;0.26;;
-Kentucky; 701 ; 4'413'457 ;0.16;;
-Louisiana; 527 ; 4'649'676 ;0.11;;
-Maine; 695 ; 1'330'089 ;0.52;;
-Maryland; 5'028 ; 5'976'407 ;0.84;;
-Massachusetts; 4'612 ; 6'745'408 ;0.68;;
-Michigan; 8'844 ; 9'909'877 ;0.89;;
-Minnesota; 2'775 ; 5'457'173 ;0.51;;
-Mississippi; 201 ; 2'994'079 ;0.07;;
-Missouri; 1'859 ; 6'063'589 ;0.31;;
-Montana; 362 ; 1'023'579 ;0.35;;
-Nebraska; 579 ; 1'881'503 ;0.31;;
-Nevada; 1'509 ; 2'839'099 ;0.53;;
-New Hampshire; 761 ; 1'326'813 ;0.57;;
-New Jersey; 6'021 ; 8'938'175 ;0.67;;
-New Mexico; 637 ; 2'085'572 ;0.31;;
-New York; 11'278 ; 19'746'227 ;0.57;;
-North Carolina; 3'384 ; 9'943'964 ;0.34;;
-North Dakota; 91 ; 739'482 ;0.12;;
-Ohio; 3'814 ; 11'594'163 ;0.33;;
-Oklahoma; 806 ; 3'878'051 ;0.21;;
-Oregon; 5'681 ; 3'970'239 ;1.43;;
-Pennsylvania; 4'540 ; 12'787'209 ;0.36;;
-Rhode Island; 417 ; 1'055'173 ;0.40;;
-South Carolina; 1'056 ; 4'832'482 ;0.22;;
-South Dakota; 160 ; 853'175 ;0.19;;
-Tennessee; 2'730 ; 6'549'352 ;0.42;;
-Texas; 9'925 ; 26'956'958 ;0.37;;
-Utah; 1'565 ; 2'942'902 ;0.53;;
-Vermont; 840 ; 626'562 ;1.34;;
-Virginia; 3'628 ; 8'326'289 ;0.44;;
-Washington; 12'291 ; 7'061'530 ;1.74;;
-West Virginia; 271 ; 1'850'326 ;0.15;;
-Wisconsin; 2'429 ; 5'757'564 ;0.42;;
-Wyoming; 73 ; 584'153 ;0.12;;
-All; 278'851 ; 318'857'056 ;0.87;;
+State;Electric_Vehicle_Registrations;Population;Percentage
+Alabama;773;4849377;0.16
+Alaska;155;736732;0.21
+Arizona;4361;6731484;0.65
+Arkansas;374;2966369;0.13
+California;126283;38802500;3.25
+Colorado;4001;5355866;0.75
+Connecticut;2476;3596677;0.69
+Delaware;383;935614;0.41
+District of Columbia;493;658893;0.75
+Florida;10383;19893297;0.52
+Georgia;15551;10097343;1.54
+Hawaii;3050;1419561;2.15
+Idaho;409;1634464;0.25
+Illinois;6694;12880580;0.52
+Indiana;1697;6596855;0.26
+Iowa;928;3107126;0.3
+Kansas;750;2904021;0.26
+Kentucky;701;4413457;0.16
+Louisiana;527;4649676;0.11
+Maine;695;1330089;0.52
+Maryland;5028;5976407;0.84
+Massachusetts;4612;6745408;0.68
+Michigan;8844;9909877;0.89
+Minnesota;2775;5457173;0.51
+Mississippi;201;2994079;0.07
+Missouri;1859;6063589;0.31
+Montana;362;1023579;0.35
+Nebraska;579;1881503;0.31
+Nevada;1509;2839099;0.53
+New Hampshire;761;1326813;0.57
+New Jersey;6021;8938175;0.67
+New Mexico;637;2085572;0.31
+New York;11278;19746227;0.57
+North Carolina;3384;9943964;0.34
+North Dakota;91;739482;0.12
+Ohio;3814;11594163;0.33
+Oklahoma;806;3878051;0.21
+Oregon;5681;3970239;1.43
+Pennsylvania;4540;12787209;0.36
+Rhode Island;417;1055173;0.4
+South Carolina;1056;4832482;0.22
+South Dakota;160;853175;0.19
+Tennessee;2730;6549352;0.42
+Texas;9925;26956958;0.37
+Utah;1565;2942902;0.53
+Vermont;840;626562;1.34
+Virginia;3628;8326289;0.44
+Washington;12291;7061530;1.74
+West Virginia;271;1850326;0.15
+Wisconsin;2429;5757564;0.42
+Wyoming;73;584153;0.12
+All;278851;318857056;0.87
