@@ -3,7 +3,7 @@
 # Date:            2016-04-03
 # Author:          tim.hagmann@gmail.com
 # Machine:         SAN-NB0044 | Intel i7-3540M @ 3.00GHz | 16.00 GB RAM
-# R Version:       R version 3.2.1 -- "World-Famous Astronaut"
+# R Version:       R version 3.2.4 -- "Very Secure Dishes"
 #
 # Notes:           Parallelisation requires the "RevoUtilsMath" package (if
 #                  necessary, copy it manually into packrat). On Windows install 
