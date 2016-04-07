@@ -20,3 +20,4 @@ source("scripts/102_packages.R")               # Load all necessary packages
 
 ## Visualization
 source("scripts/103_treemap.R")                # Constructing a treemap
+source("scripts/104_choropleth.R")             # Constructing interactive chloropleth
