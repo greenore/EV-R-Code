@@ -1,0 +1,393 @@
+AL,Natural Gas,34.25
+AL,Nuclear,25.73
+AL,Coal,25.49
+AL,Other,6.21
+AL,Hydro,6.21
+AL,Biomass,2.04
+AL,Oil,0.06
+AK,Natural Gas,46.34
+AK,Hydro,24.76
+AK,Oil,12.29
+AK,Coal,10.59
+AK,Biomass,3.49
+AK,Wind,2.54
+AZ,Coal,36.04
+AZ,Nuclear,27.3
+AZ,Natural Gas,23.01
+AZ,Hydro,5.18
+AZ,Other,5.17
+AZ,Solar,2.65
+AZ,Wind,0.4
+AZ,Biomass,0.19
+AZ,Oil,0.05
+AR,Coal,39
+AR,Natural Gas,26.62
+AR,Nuclear,24.83
+AR,Hydro,6.63
+AR,Biomass,2.68
+AR,Oil,0.22
+AR,Other,0.02
+CA,Natural Gas,59.09
+CA,Nuclear,9.42
+CA,Solar,7.64
+CA,Hydro,7.11
+CA,Geothermal,6.28
+CA,Wind,6.23
+CA,Biomass,3.52
+CA,Other,0.46
+CA,Coal,0.2
+CA,Oil,0.05
+CO,Coal,60.09
+CO,Natural Gas,22.53
+CO,Wind,14.17
+CO,Hydro,2.31
+CO,Solar,0.55
+CO,Biomass,0.25
+CO,Other,0.08
+CO,Oil,0.02
+CT,Nuclear,46.25
+CT,Natural Gas,46.06
+CT,Biomass,2.14
+CT,Coal,1.59
+CT,Other,1.53
+CT,Hydro,1.21
+CT,Oil,1.16
+CT,Solar,0.06
+DE,Other,42.45
+DE,Natural Gas,42.45
+DE,Coal,13.05
+DE,Biomass,1.3
+DE,Oil,0.68
+DE,Solar,0.07
+DC,Natural Gas,50
+DC,Oil,50
+FL,Natural Gas,65.73
+FL,Coal,18.06
+FL,Nuclear,11.85
+FL,Biomass,2
+FL,Other,1.26
+FL,Oil,0.91
+FL,Solar,0.11
+FL,Hydro,0.09
+GA,Natural Gas,39.07
+GA,Coal,28.97
+GA,Nuclear,26.38
+GA,Biomass,3.41
+GA,Hydro,1.72
+GA,Oil,0.25
+GA,Solar,0.12
+GA,Other,0.08
+HI,Oil,67.32
+HI,Coal,13.08
+HI,Biomass,7.76
+HI,Wind,4.69
+HI,Other,3.67
+HI,Geothermal,2.56
+HI,Hydro,0.73
+HI,Solar,0.18
+ID,Hydro,34.98
+ID,Other,34.98
+ID,Natural Gas,16.22
+ID,Wind,10.53
+ID,Biomass,2.56
+ID,Geothermal,0.42
+ID,Coal,0.31
+IL,Nuclear,50.21
+IL,Coal,38.09
+IL,Natural Gas,5.57
+IL,Wind,5.54
+IL,Biomass,0.29
+IL,Other,0.14
+IL,Hydro,0.07
+IL,Oil,0.06
+IL,Solar,0.03
+IN,Coal,76.77
+IN,Natural Gas,16.08
+IN,Wind,4.44
+IN,Oil,1.32
+IN,Other,0.41
+IN,Biomass,0.39
+IN,Hydro,0.38
+IN,Solar,0.22
+IA,Coal,52.4
+IA,Wind,30.84
+IA,Nuclear,9.04
+IA,Natural Gas,4.28
+IA,Hydro,1.39
+IA,Other,1.39
+IA,Biomass,0.45
+IA,Oil,0.22
+KS,Coal,53.69
+KS,Wind,23.85
+KS,Nuclear,18.84
+KS,Natural Gas,3.25
+KS,Oil,0.23
+KS,Biomass,0.15
+KY,Coal,86.8
+KY,Natural Gas,7.19
+KY,Hydro,4.11
+KY,Oil,1.31
+KY,Biomass,0.53
+KY,Other,0.06
+LA,Natural Gas,63.05
+LA,Nuclear,14.54
+LA,Coal,14.41
+LA,Oil,4.07
+LA,Biomass,2.59
+LA,Hydro,0.95
+LA,Other,0.4
+ME,Hydro,29.74
+ME,Biomass,26.08
+ME,Natural Gas,25.38
+ME,Wind,10.47
+ME,Oil,4.39
+ME,Other,3.19
+ME,Coal,0.76
+MD,Nuclear,40.24
+MD,Coal,38.26
+MD,Natural Gas,12.42
+MD,Hydro,4.47
+MD,Biomass,1.49
+MD,Wind,1.19
+MD,Other,0.88
+MD,Oil,0.67
+MD,Solar,0.39
+MA,Natural Gas,64.3
+MA,Nuclear,15.47
+MA,Coal,7
+MA,Biomass,3.75
+MA,Other,2.73
+MA,Oil,2.57
+MA,Solar,2.14
+MA,Hydro,1.37
+MA,Wind,0.68
+MI,Coal,46.94
+MI,Nuclear,25.97
+MI,Natural Gas,18.63
+MI,Wind,4.23
+MI,Biomass,2.26
+MI,Hydro,0.88
+MI,Oil,0.74
+MI,Other,0.35
+MN,Coal,48.99
+MN,Nuclear,22.27
+MN,Wind,16.98
+MN,Natural Gas,6.78
+MN,Biomass,3.09
+MN,Hydro,0.96
+MN,Other,0.7
+MN,Oil,0.22
+MN,Solar,0
+MS,Natural Gas,69.76
+MS,Nuclear,18.08
+MS,Coal,9.87
+MS,Biomass,2.27
+MS,Oil,0.02
+MO,Coal,82.34
+MO,Nuclear,10.55
+MO,Natural Gas,4.6
+MO,Wind,1.29
+MO,Hydro,0.81
+MO,Oil,0.24
+MO,Biomass,0.13
+MO,Other,0.03
+MO,Solar,0.01
+MT,Coal,55.13
+MT,Hydro,32.88
+MT,Wind,6.65
+MT,Natural Gas,2.57
+MT,Oil,1.71
+MT,Other,1.03
+MT,Biomass,0.04
+NE,Coal,59.82
+NE,Nuclear,25.57
+NE,Wind,7.81
+NE,Other,2.69
+NE,Hydro,2.69
+NE,Natural Gas,1.19
+NE,Biomass,0.17
+NE,Oil,0.06
+NV,Natural Gas,63.26
+NV,Coal,18.04
+NV,Geothermal,7.52
+NV,Hydro,6.58
+NV,Solar,2.79
+NV,Biomass,0.89
+NV,Wind,0.83
+NV,Oil,0.04
+NV,Other,0.04
+NH,Nuclear,47.04
+NH,Natural Gas,30.01
+NH,Biomass,8.16
+NH,Hydro,6.94
+NH,Coal,4.65
+NH,Wind,2.08
+NH,Oil,0.87
+NH,Other,0.26
+NJ,Natural Gas,49.99
+NJ,Nuclear,44.36
+NJ,Coal,2.34
+NJ,Biomass,1.31
+NJ,Solar,1.1
+NJ,Other,0.7
+NJ,Oil,0.39
+NJ,Wind,0.03
+NJ,Hydro,-0.23
+NM,Coal,62.21
+NM,Natural Gas,28.88
+NM,Wind,6.29
+NM,Solar,1.97
+NM,Hydro,0.37
+NM,Oil,0.2
+NM,Biomass,0.04
+NM,Geothermal,0.04
+NY,Natural Gas,40.05
+NY,Nuclear,31.5
+NY,Hydro,18.84
+NY,Wind,2.79
+NY,Oil,2.64
+NY,Biomass,1.75
+NY,Coal,1.69
+NY,Other,0.66
+NY,Solar,0.07
+NC,Nuclear,32.65
+NC,Coal,31.36
+NC,Natural Gas,28.28
+NC,Hydro,3.83
+NC,Biomass,1.87
+NC,Solar,1.42
+NC,Oil,0.34
+NC,Other,0.27
+ND,Coal,75.39
+ND,Wind,17.71
+ND,Hydro,5.68
+ND,Natural Gas,1.05
+ND,Other,0.08
+ND,Oil,0.07
+ND,Biomass,0.02
+OH,Coal,59.16
+OH,Natural Gas,23.26
+OH,Nuclear,14.34
+OH,Oil,1.08
+OH,Wind,0.99
+OH,Biomass,0.67
+OH,Hydro,0.42
+OH,Solar,0.06
+OH,Other,0.01
+OK,Natural Gas,45.19
+OK,Coal,32.71
+OK,Wind,18.43
+OK,Hydro,3.21
+OK,Biomass,0.42
+OK,Oil,0.03
+OK,Other,0.02
+OK,Solar,0
+OR,Hydro,54.88
+OR,Natural Gas,27.44
+OR,Wind,11.34
+OR,Coal,4.04
+OR,Biomass,1.84
+OR,Geothermal,0.31
+OR,Other,0.08
+OR,Solar,0.06
+OR,Oil,0.01
+PA,Nuclear,37.35
+PA,Coal,30.42
+PA,Natural Gas,27.71
+PA,Wind,1.56
+PA,Biomass,1.17
+PA,Hydro,0.96
+PA,Other,0.44
+PA,Oil,0.36
+PA,Solar,0.04
+RI,Natural Gas,81.55
+RI,Wind,7.59
+RI,Other,7.59
+RI,Solar,1.26
+RI,Biomass,1.26
+RI,Oil,0.74
+SC,Nuclear,54.94
+SC,Coal,23.4
+SC,Natural Gas,16.86
+SC,Biomass,2.3
+SC,Hydro,2.01
+SC,Oil,0.42
+SC,Other,0.05
+SC,Solar,0.01
+SD,Other,28.42
+SD,Hydro,28.42
+SD,Biomass,14.54
+SD,Wind,14.54
+SD,Coal,8.76
+SD,Natural Gas,5.2
+SD,Oil,0.12
+TN,Coal,40.58
+TN,Nuclear,33.1
+TN,Natural Gas,12.28
+TN,Hydro,12.24
+TN,Biomass,1.39
+TN,Oil,0.18
+TN,Solar,0.14
+TN,Wind,0.06
+TN,Other,0.03
+TX,Natural Gas,53.16
+TX,Coal,27.13
+TX,Wind,10.03
+TX,Nuclear,8.78
+TX,Biomass,0.4
+TX,Hydro,0.18
+TX,Other,0.16
+TX,Solar,0.09
+TX,Oil,0.05
+UT,Coal,76.05
+UT,Natural Gas,19.32
+UT,Wind,1.48
+UT,Hydro,1.42
+UT,Geothermal,1.2
+UT,Other,0.25
+UT,Biomass,0.17
+UT,Solar,0.07
+UT,Oil,0.05
+VT,Nuclear,72.03
+VT,Hydro,16.73
+VT,Biomass,6.44
+VT,Wind,4.43
+VT,Solar,0.33
+VT,Natural Gas,0.04
+VA,Natural Gas,39.33
+VA,Nuclear,33.27
+VA,Coal,20.78
+VA,Biomass,4.83
+VA,Oil,1.33
+VA,Other,0.55
+VA,Hydro,-0.08
+WA,Hydro,67.89
+WA,Natural Gas,11.72
+WA,Nuclear,7.45
+WA,Wind,6.48
+WA,Coal,4.61
+WA,Biomass,1.72
+WA,Other,0.11
+WA,Oil,0.02
+WA,Solar,0
+WV,Coal,93.92
+WV,Other,1.91
+WV,Hydro,1.91
+WV,Wind,1.72
+WV,Natural Gas,0.32
+WV,Oil,0.19
+WV,Biomass,0.01
+WI,Coal,55.86
+WI,Natural Gas,20.32
+WI,Nuclear,15.01
+WI,Hydro,3.39
+WI,Biomass,2.51
+WI,Wind,2.46
+WI,Oil,0.33
+WI,Other,0.12
+WY,Coal,87.42
+WY,Wind,7.63
+WY,Hydro,1.74
+WY,Other,1.74
+WY,Natural Gas,1.36
+WY,Oil,0.1
